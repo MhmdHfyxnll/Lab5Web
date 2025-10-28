@@ -115,33 +115,33 @@ Upload hasilnya ke GitHub repository dengan nama Lab5Web dan tambahkan screensho
 
 Menampilkan "Hello World" di halaman dan di console
 
-![Tampilan](lab5 1.png) 
+![Tampilan](lab5,1.png) 
 Tombol alert dan prompt bekerja
 
-![Tampilan](lab5 2.png) 
-![Tampilan](lab5 3.png)
-![Tampilan](lab5 4.png)
+![Tampilan](lab5,2.png) 
+![Tampilan](lab5,3.png)
+![Tampilan](lab5,4.png)
 
 
 Fungsi salam() memunculkan pesan
 
-![Tampilan](lab5 5.png)
-![Tampilan](lab5 6.png)
+![Tampilan](lab5,5.png)
+![Tampilan](lab5,6.png)
 
 
 Operasi aritmatika, kondisi if/else, dan switch tampil sesuai logika
 
-![Tampilan](lab5 7.png)
+![Tampilan](lab5,7.png)
 
 
 Form validasi menolak input kosong 
 
-![Tampilan](lab5 8.png)
+![Tampilan](lab5,8.png)
 
 
 Checkbox otomatis menghitung total harga
 
-![Tampilan](lab5 9.png)
+![Tampilan](lab5,9.png)
 
 
 ## Kesimpulan
