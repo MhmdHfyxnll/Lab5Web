@@ -116,6 +116,8 @@ Upload hasilnya ke GitHub repository dengan nama Lab5Web dan tambahkan screensho
 Menampilkan "Hello World" di halaman dan di console
 
 ![Tampilan](lab5,1.png) 
+
+
 Tombol alert dan prompt bekerja
 
 ![Tampilan](lab5,2.png) 
